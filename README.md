@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 # imd + coding research doc
 
 ### the steps *
