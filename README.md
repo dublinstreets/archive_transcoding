@@ -1,10 +1,12 @@
+# imd + coding research doc
+
 ### the steps *
 
 single cultural commodity from an Archive > long-term archival approach / solution > transcoding  into diverse media and formats 
 
 ### the starting point  - Text "The Man who Never Threw Anything Away" *
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a4320a45-2d6c-45c9-8cd8-720b4e4f7a13/Screenshot_2020-02-20_at_11.08.22.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a4320a45-2d6c-45c9-8cd8-720b4e4f7a13/Screenshot_2020-02-20_at_11.08.22.png)
+![imd%20coding%20research%20doc/Screenshot_2020-02-20_at_11.08.22.png](imd%20coding%20research%20doc/Screenshot_2020-02-20_at_11.08.22.png)
 
 ### the initial mindmap *
 
@@ -70,7 +72,7 @@ box
 
 ### [the object from an Archive](https://search.iisg.amsterdam/Record/1216448)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c72294a8-757e-45a3-bb26-c0799f9f15dd/Screenshot_2020-02-19_at_22.52.48.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c72294a8-757e-45a3-bb26-c0799f9f15dd/Screenshot_2020-02-19_at_22.52.48.png)
+![imd%20coding%20research%20doc/Screenshot_2020-02-19_at_22.52.48.png](imd%20coding%20research%20doc/Screenshot_2020-02-19_at_22.52.48.png)
 
 — person: Jasper Robert Grootveld 
 
@@ -102,7 +104,7 @@ Jasper Robert Grootveld *
 
 > In 2007, his raft fleet is moored for the International Institute of Social History. RJG withdraws to a care home in Amsterdam.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76ac674d-fa62-4680-abc3-7f02bd786fc3/drijvende-tuinen1.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76ac674d-fa62-4680-abc3-7f02bd786fc3/drijvende-tuinen1.jpg)
+![imd%20coding%20research%20doc/drijvende-tuinen1.jpg](imd%20coding%20research%20doc/drijvende-tuinen1.jpg)
 
 Amsterdam *
 
@@ -126,9 +128,9 @@ Dutch subculture Nozems *
 
 Book 'Solitude and privacy : a study of social isolation : its causes and therapy'
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fecd85df-3789-4381-8b04-eb35e4cd2dbe/IMG_5621.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fecd85df-3789-4381-8b04-eb35e4cd2dbe/IMG_5621.jpg)
+![imd%20coding%20research%20doc/IMG_5621.jpg](imd%20coding%20research%20doc/IMG_5621.jpg)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ce9eca7-3e29-4eaf-bda6-14cbbf77e746/IMG_5620.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ce9eca7-3e29-4eaf-bda6-14cbbf77e746/IMG_5620.jpg)
+![imd%20coding%20research%20doc/IMG_5620.jpg](imd%20coding%20research%20doc/IMG_5620.jpg)
 
 ### * final artefact *
 
@@ -138,15 +140,26 @@ Book 'Solitude and privacy : a study of social isolation : its causes and therap
 
 An Artefact that has an Aura
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3e07c1b9-83d2-4d6c-81f3-c1cd47313a4d/IMG_5639.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3e07c1b9-83d2-4d6c-81f3-c1cd47313a4d/IMG_5639.jpg)
+![imd%20coding%20research%20doc/IMG_5639.jpg](imd%20coding%20research%20doc/IMG_5639.jpg)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/72d6e3f1-9485-4715-a98f-911a4080b56a/IMG_5634.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/72d6e3f1-9485-4715-a98f-911a4080b56a/IMG_5634.jpg)
+![imd%20coding%20research%20doc/IMG_5634.jpg](imd%20coding%20research%20doc/IMG_5634.jpg)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b5a08245-3353-41b7-bb69-03aa12cd993e/IMG_5635.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b5a08245-3353-41b7-bb69-03aa12cd993e/IMG_5635.jpg)
+![imd%20coding%20research%20doc/IMG_5641.jpg](imd%20coding%20research%20doc/IMG_5641.jpg)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ccb8412-d9e2-4dde-b2b0-8ea56af05963/IMG_5637.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ccb8412-d9e2-4dde-b2b0-8ea56af05963/IMG_5637.jpg)
+![imd%20coding%20research%20doc/IMG_5635.jpg](imd%20coding%20research%20doc/IMG_5635.jpg)
+
+![imd%20coding%20research%20doc/IMG_5637.jpg](imd%20coding%20research%20doc/IMG_5637.jpg)
 
 Entry points to the Artefact / What is to be decoded:
+
+
+
+
+
+
+
+
+
 
 — global entry points: the topics of self-sufficiency / autonomy / independency / self- reliance and it's practical & mental aspects 
 
