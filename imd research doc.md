@@ -1,4 +1,6 @@
-# imd research doc
+# imd + coding research doc
+
+readme.md: [https://github.com/sonianikolaeva/archive_transcoding](https://github.com/sonianikolaeva/archive_transcoding)
 
 ### the steps *
 
@@ -6,7 +8,7 @@ single cultural commodity from an Archive > long-term archival approach / soluti
 
 ### the starting point  - Text "The Man who Never Threw Anything Away" *
 
-![imd%20research%20doc/Screenshot_2020-02-20_at_11.08.22.png](imd%20research%20doc/Screenshot_2020-02-20_at_11.08.22.png)
+![imd%20coding%20research%20doc/Screenshot_2020-02-20_at_11.08.22.png](imd%20coding%20research%20doc/Screenshot_2020-02-20_at_11.08.22.png)
 
 ### the initial mindmap *
 
@@ -72,7 +74,7 @@ box
 
 ### [the object from an Archive](https://search.iisg.amsterdam/Record/1216448)
 
-![imd%20research%20doc/Screenshot_2020-02-19_at_22.52.48.png](imd%20research%20doc/Screenshot_2020-02-19_at_22.52.48.png)
+![imd%20coding%20research%20doc/Screenshot_2020-02-19_at_22.52.48.png](imd%20coding%20research%20doc/Screenshot_2020-02-19_at_22.52.48.png)
 
 — person: Jasper Robert Grootveld 
 
@@ -104,7 +106,7 @@ Jasper Robert Grootveld *
 
 > In 2007, his raft fleet is moored for the International Institute of Social History. RJG withdraws to a care home in Amsterdam.
 
-![imd%20research%20doc/drijvende-tuinen1.jpg](imd%20research%20doc/drijvende-tuinen1.jpg)
+![imd%20coding%20research%20doc/drijvende-tuinen1.jpg](imd%20coding%20research%20doc/drijvende-tuinen1.jpg)
 
 Amsterdam *
 
@@ -118,18 +120,156 @@ Events called Happenings in Amsterdam at Spui *
 
 Dutch subculture Nozems *
 
-### not to project own ideas on an artifact, the artifact above is dropped
+# ******************
+
+### not to project own ideas on an artefact, the artefact above is dropped
 
 ### ˅
 
 ### new search through an archive is done
 
-1. Book 'Solitude and privacy : a study of social isolation : its causes and therapy'
+Book 'Solitude and privacy : a study of social isolation : its causes and therapy'
 
-![imd%20research%20doc/IMG_5621.heic](imd%20research%20doc/IMG_5621.heic)
+![imd%20coding%20research%20doc/IMG_5621.jpg](imd%20coding%20research%20doc/IMG_5621.jpg)
 
-![imd%20research%20doc/IMG_5620.heic](imd%20research%20doc/IMG_5620.heic)
+![imd%20coding%20research%20doc/IMG_5620.jpg](imd%20coding%20research%20doc/IMG_5620.jpg)
 
-2. Serials 'Practical self-sufficiency'
+## * final artefact *
 
-![imd%20research%20doc/IMG_5639.heic](imd%20research%20doc/IMG_5639.heic)
+## ˅
+
+## Serials 'Practical self-sufficiency': An Artefact that has an Aura
+
+![imd%20coding%20research%20doc/IMG_5639.jpg](imd%20coding%20research%20doc/IMG_5639.jpg)
+
+![imd%20coding%20research%20doc/IMG_5634.jpg](imd%20coding%20research%20doc/IMG_5634.jpg)
+
+![imd%20coding%20research%20doc/IMG_5641.jpg](imd%20coding%20research%20doc/IMG_5641.jpg)
+
+![imd%20coding%20research%20doc/IMG_5635.jpg](imd%20coding%20research%20doc/IMG_5635.jpg)
+
+![imd%20coding%20research%20doc/IMG_5637.jpg](imd%20coding%20research%20doc/IMG_5637.jpg)
+
+Entry points to the Artefact / What is to be decoded:
+
+— global entry points: the topics of self-sufficiency / autonomy / independency / self- reliance and it's practical & mental aspects 
+
+— specific entry points: based on a particular article of a particular issue
+
+### *** Talk w/ Martijn March 16th
+
+- digital realm, how can you be self-sufficient online, that means you don't use Google services, email and you need to set up your own?
+- digital counterpart for the topics/articles in the issues
+- the Whole Earth catalogue
+- define a research question
+- what are analogue strategies to transcode an artefact?
+- what are the digital tools to transcode an artefact?
+
+### References:
+
+- Whole Earth Catalogue
+
+— self-sufficiency, ecology, alternative education, DIY, holism,
+
+— convention-challenging experimentalism
+
+— counterculture
+
+- CoEvolution Quarterly
+
+—  a journal which descended from Stewart Brand's Whole Earth Catalog
+
+![imd%20coding%20research%20doc/91nfra0qwvl.jpg](imd%20coding%20research%20doc/91nfra0qwvl.jpg)
+
+![imd%20coding%20research%20doc/69b5d96a4169b029cd5dffe88d3ee31f.jpg](imd%20coding%20research%20doc/69b5d96a4169b029cd5dffe88d3ee31f.jpg)
+
+- [Online books pages by subject](https://onlinebooks.library.upenn.edu/subjects.html)
+- [Cool Tools](https://kk.org/cooltools/)
+
+— a website, which recommends the best/cheapest tools available
+
+— anything that can be useful
+
+— reviews written by real students
+
+- Drop City
+
+— counterculture artists' community that formed in southern Colorado in 1965
+
+—  the intention was to create a live-in work of Drop Art
+
+— known as the first rural "hippie commune"
+
+- Burning Man
+
+— described by participants as an experimental society, radical self-expression and radical self-sufficiency
+
+— the idea is that during Burning Man, people will temporarily build a community
+
+— participants are expected to be self-sufficient in their needs such as food, water and a place to sleep
+
+— Burning Man is very dependent on the efforts of volunteers
+
+- Freetown Christiania
+
+— is an intentional community and commune of about 850 to 1,000 residents, covering 7.7 hectares (19 acres) in the borough of Christianshavn in the Danish capital city of Copenhagen
+
+*** To-do March 23th
+
+- [x]  formulate a research question based on an artefact
+- [x]  research the origins of the periodicals: editors, publisher, period, contributors, language
+- [x]  search for the pdfs of the periodicals
+- [ ]  make an initial list of transcoding strategies / tools: digital and analogue
+
+### *** Talk w/ Hannes March 23th
+
+about my artefact:
+
+- 1 way is transcoding the content of an artefact / 2 way is transcoding the context of an artefact
+
+about transcoding:
+
+- think of shapes for coming transcodings and quickly go for it, it can be rough
+- what is lost and what is gained during transcoding
+- what kind of things you'd like to make
+
+about [read.me](http://read.me) file:
+
+- [read.me](http://read.me) file is one to present to the public, cleaned and refined one
+- images can be either embedded links
+- make a personal google drive, collect images there for notion
+
+### Just thinking:
+
+- Does it mean that a person will have to cut down the needs to be self-sufficient in a digital realm?
+- Transcoding will be into a parallel realm - which is digital / online existence
+
+
+
+
+
+
+
+
+
+
+
+
+[Details about the Periodicals](https://www.notion.so/27246924a91d442cbc22775cddb5db64)
+
+[Topics related to Self-Sufficiency](https://www.notion.so/982e852f5de1452681b0ee355805ce5f)
+
+### *  Research Question #0:
+
+What defines a culture of online self-sufficiency?
+
+### *  Research Question #1 (main):
+
+What strategies does the culture of online self-sufficiency use?
+
+### Initial list of transcodings:
+
+- manitestation
+    - a self-filmed video of manifesto speech
+- universal platform for online existence
+    - alternative social media / forum
