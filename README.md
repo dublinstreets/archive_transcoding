@@ -1,12 +1,14 @@
 # imd + coding research doc
 
+readme.md: [https://github.com/sonianikolaeva/archive_transcoding](https://github.com/sonianikolaeva/archive_transcoding)
+
 ### the steps *
 
 single cultural commodity from an Archive > long-term archival approach / solution > transcoding  into diverse media and formats 
 
 ### the starting point  - Text "The Man who Never Threw Anything Away" *
 
-![imd%20coding%20research%20doc/Screenshot_2020-02-20_at_11.08.22.png](imd%20coding%20research%20doc/Screenshot_2020-02-20_at_11.08.22.png)
+imd%20coding%20research%20doc/Screenshot_2020-02-20_at_11.08.22.png
 
 ### the initial mindmap *
 
@@ -132,13 +134,11 @@ Book 'Solitude and privacy : a study of social isolation : its causes and therap
 
 ![imd%20coding%20research%20doc/IMG_5620.jpg](imd%20coding%20research%20doc/IMG_5620.jpg)
 
-### * final artefact *
+## * final artefact *
 
-### ˅
+## ˅
 
-### Serials 'Practical self-sufficiency'
-
-An Artefact that has an Aura
+## Serials 'Practical self-sufficiency': An Artefact that has an Aura
 
 ![imd%20coding%20research%20doc/IMG_5639.jpg](imd%20coding%20research%20doc/IMG_5639.jpg)
 
@@ -156,13 +156,121 @@ Entry points to the Artefact / What is to be decoded:
 
 — specific entry points: based on a particular article of a particular issue
 
-*** Talk w/ Martijn March 16th
+### *** Talk w/ Martijn March 16th
 
 - digital realm, how can you be self-sufficient online, that means you don't use Google services, email and you need to set up your own?
 - digital counterpart for the topics/articles in the issues
 - the Whole Earth catalogue
 - define a research question
+- what are analogue strategies to transcode an artefact?
+- what are the digital tools to transcode an artefact?
 
-What are analogue strategies to transcode an artefact?
+### References:
 
-What are the digital tools to transcode an artefact?
+- Whole Earth Catalogue
+
+— self-sufficiency, ecology, alternative education, DIY, holism,
+
+— convention-challenging experimentalism
+
+— counterculture
+
+- CoEvolution Quarterly
+
+—  a journal which descended from Stewart Brand's Whole Earth Catalog
+
+![imd%20coding%20research%20doc/91nfra0qwvl.jpg](imd%20coding%20research%20doc/91nfra0qwvl.jpg)
+
+![imd%20coding%20research%20doc/69b5d96a4169b029cd5dffe88d3ee31f.jpg](imd%20coding%20research%20doc/69b5d96a4169b029cd5dffe88d3ee31f.jpg)
+
+- [Online books pages by subject](https://onlinebooks.library.upenn.edu/subjects.html)
+- [Cool Tools](https://kk.org/cooltools/)
+
+— a website, which recommends the best/cheapest tools available
+
+— anything that can be useful
+
+— reviews written by real students
+
+- Drop City
+
+— counterculture artists' community that formed in southern Colorado in 1965
+
+—  the intention was to create a live-in work of Drop Art
+
+— known as the first rural "hippie commune"
+
+- Burning Man
+
+— described by participants as an experimental society, radical self-expression and radical self-sufficiency
+
+— the idea is that during Burning Man, people will temporarily build a community
+
+— participants are expected to be self-sufficient in their needs such as food, water and a place to sleep
+
+— Burning Man is very dependent on the efforts of volunteers
+
+- Freetown Christiania
+
+— is an intentional community and commune of about 850 to 1,000 residents, covering 7.7 hectares (19 acres) in the borough of Christianshavn in the Danish capital city of Copenhagen
+
+*** To-do March 23th
+
+- [x]  formulate a research question based on an artefact
+- [x]  research the origins of the periodicals: editors, publisher, period, contributors, language
+- [x]  search for the pdfs of the periodicals
+- [x]  make an initial list of transcoding strategies / tools: digital and analogue
+
+### *** Talk w/ Hannes March 23th
+
+about my artefact:
+
+- 1 way is transcoding the content of an artefact / 2 way is transcoding the context of an artefact
+
+about transcoding:
+
+- think of shapes for coming transcodings and quickly go for it, it can be rough
+- what is lost and what is gained during transcoding
+- what kind of things you'd like to make
+
+about [read.me](http://read.me) file:
+
+- [read.me](http://read.me) file is one to present to the public, cleaned and refined one
+- images can be either embedded links
+- make a personal google drive, collect images there for notion
+
+### Just thinking:
+
+- Does it mean that a person will have to cut down the needs to be self-sufficient in a digital realm?
+- Transcoding will be into a parallel realm - which is digital / online existence
+
+[Details about the Periodicals](https://www.notion.so/27246924a91d442cbc22775cddb5db64)
+
+[Topics related to Self-Sufficiency](https://www.notion.so/982e852f5de1452681b0ee355805ce5f)
+
+### *  Research Question #0:
+
+What defines a culture of online self-sufficiency?
+
+### *  Research Question #1 (main):
+
+What strategies does the culture of online self-sufficiency use?
+
+### Initial list of transcodings:
+
+- manifestation
+    - a self-filmed video of manifesto speech
+- podcast
+- masks, face filter, pixelization
+- universal platform for online existence
+    - alternative social media / forum
+
+### *** Talk w/ Martijn March 30th
+
+- create and maintain my own server
+- how to make a self-sufficient video?
+- open source community
+- manifesto in 3 different mediums
+- 3 different manifesto in 1 medium
+- what elements define my existence online? e.g last time seen online, public IP address, internet provider, internet speed
+- possible to set up own wifi network
